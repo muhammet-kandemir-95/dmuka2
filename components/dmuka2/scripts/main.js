@@ -1,8 +1,11 @@
 /**
  * ----------------------------------------------------------------------------
  * **Name**				:	dmuka2
+ * 
  * **Author**			:	Muhammet Kandemir (github.com/muhammet-kandemir-95)
+ * 
  * **Version**			:	2.0.0.0
+ * 
  * **Description**		:	This is only a library which has some components. 
  * 							It can't anything on own.
  * 							So you should use with components.
